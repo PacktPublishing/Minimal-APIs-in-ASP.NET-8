@@ -1,5 +1,3 @@
-<p align='center'><a href='https://www.eventbrite.com/e/ship-production-pytorch-system-in-a-day-train-optimize-deploy-workshop-tickets-1983348934052?aff=GitHub'><img src='https://static.packt-cdn.com/assets/images/packt+events/workshop_ashish_github.png'/></a></p>
-
 # Minimal APIs in ASP.NET 9
 
 <a href="https://www.packtpub.com/en-us/product/minimal-apis-in-aspnet-9-9781805129127"><img src="https://content.packt.com/_/image/original/B20968/cover_image.jpg" alt="Book Name" height="256px" align="right"></a>
